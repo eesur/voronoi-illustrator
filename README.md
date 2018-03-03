@@ -2,6 +2,8 @@ This repo is a system for taking path data out of adobe illustrator and using it
 
 [Illustrator Point Exporter](https://github.com/elcontraption/illustrator-point-exporter) is used for of Export [x, y] anchor point coordinates as JSON from Adobe Illustrator. The path tool is used, **without beizer curves**. The path tool is ideal, as then we only get [x, y] values for each point. 
 
+![fuji](https://user-images.githubusercontent.com/1597761/36935512-8fdc00fe-1ef0-11e8-90b8-fd9cdf09abd7.jpg)
+
 TODO: create a video and/or images to explain the steps
 
 ## Setup (only need to do this once)
@@ -29,5 +31,7 @@ TODO: create a video and/or images to explain the steps
 ## Export the voronoi
 
 TODO: add an export button
+
+<img width="983" alt="screenshot 2018-03-03 14 25 14" src="https://user-images.githubusercontent.com/1597761/36935430-91c67710-1eef-11e8-8c2e-06aa3a1c7829.png">
 
 for now copy element from dev tools, save as an svg file and import into illustrator
