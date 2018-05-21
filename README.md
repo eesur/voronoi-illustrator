@@ -35,3 +35,12 @@ TODO: add an export button
 <img width="983" alt="screenshot 2018-03-03 14 25 14" src="https://user-images.githubusercontent.com/1597761/36935430-91c67710-1eef-11e8-8c2e-06aa3a1c7829.png">
 
 for now copy element from dev tools, save as an svg file and import into illustrator
+
+---------------------
+
+## Use in the wild:
+
+[Voronoi Portraits| A level mock](https://medium.com/@Muskeen/voronoi-portraits-a-level-mock-cc469b520d2b). 
+![1 wac3srq_2w2obu5f7hm7xw](https://user-images.githubusercontent.com/1597761/40311426-9e7b2bda-5d07-11e8-9953-9560e5f911f4.jpeg)
+
+---------------------
